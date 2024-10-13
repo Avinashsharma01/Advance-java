@@ -1,6 +1,6 @@
 package Inheritance;
 
-
+// this is the parent class which will be inherited by the child classes
 // inheritance , interface, abstract class, polymorphism, encapsulation, abstraction
 public class Animal {
     int legs= 4;
